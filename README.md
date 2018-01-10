@@ -1,3 +1,5 @@
+Our solution is described <a href='https://docs.google.com/presentation/d/12E2PEz6eHQgVF7pyO2halX0bBbkmfT6qV_JQQdFtFt8/edit?usp=sharing'>here</a>.
+
 -----------------------------------------
 List of files and their responsibilities:
 -----------------------------------------
